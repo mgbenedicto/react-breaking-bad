@@ -1,8 +1,7 @@
 {
-  "name": "react-breakingbad",
+  "name": "breaking-bad-cast",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mgbenedicto.github.io/react-breaking-bad",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
